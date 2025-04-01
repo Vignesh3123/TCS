@@ -1,0 +1,3 @@
+name vicky
+from trichy
+age 22
